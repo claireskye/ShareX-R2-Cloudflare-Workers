@@ -2,7 +2,7 @@ name = "sharex"
 account_id = "7ceaca74043b46ad1106191ebc2bbbdd"
 workers_dev = true
 routes = [
-	{pattern = "share.claireskye.com", zone_name = "share"}
+	{pattern = "share.claireskye.com", zone_name = "claireskye.com"}
 	]
 
 compatibility_date = "2022-10-31"
