@@ -1,4 +1,4 @@
-name = "sharex-r2-cloudflare-workers"
+name = "sharex"
 account_id = "7ceaca74043b46ad1106191ebc2bbbdd"
 workers_dev = true
 routes = [
